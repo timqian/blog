@@ -6,7 +6,8 @@
 	"repository": "ylines/static",
 	"author": "timqian",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "node index.js --baseURL 'https://timqian.com/blog' --title 'timqian' --fromPath 'posts' --destPath 'docs' --themePath 'themes/timqian.com'"
 	},
 	"keywords": [
 		"blog",

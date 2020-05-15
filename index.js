@@ -43,8 +43,7 @@ const allPosts = blogPaths.map(mdFileName => {
   }
   const blogTitle = contentArr[1].slice(7).trim();
   const date = contentArr[2].slice(6).trim();
-  const author = contentArr[3].slice(8).trim();
-  const mdContentWithoutTitleDate = contentArr.slice(5).join('\n');
+  const mdContentWithoutTitleDate = contentArr.slice(4).join('\n');
 
   const blogHTML = md.render(mdContentWithoutTitleDate);
 
@@ -52,7 +51,6 @@ const allPosts = blogPaths.map(mdFileName => {
     .replace(/{{title}}/g, title)
     .replace(/{{blogTitle}}/g, blogTitle)
     .replace('{{createdDate}}', date)
-    .replace('{{author}}', author)
     .replace('{{content}}', blogHTML)
     .replace('{{feedsPubLink}}', `https://feeds.pub/feed/${encodeURIComponent(baseURL)}%2Frss.xml`)
 
@@ -64,7 +62,6 @@ const allPosts = blogPaths.map(mdFileName => {
     htmlFileName,
     blogTitle,
     date,
-    author
   }
 })
 .filter(post => !!post)
@@ -79,13 +76,12 @@ const postListHtml = allPosts.map(post => {
     htmlFileName,
     blogTitle,
     date,
-    author
   } = post;
 
   return `
     <div class="index-post-wrapper">
       <a class="index-post-title" href="./${htmlFileName}">${blogTitle}</a>
-      <span class="date">${date} by ${author}</span>
+      <span class="date">${date}</span>
     </div>
   `;
 }).join('')

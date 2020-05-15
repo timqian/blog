@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>timqian</title>
+        <link>https://timqian.com/blog</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 15 May 2020 07:34:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[My one year experience as an indie hacker]]></title>
+            <link>https://timqian.com/blog/one-year-indie-hacker.html</link>
+            <guid>https://timqian.com/blog/one-year-indie-hacker.html</guid>
+            <pubDate>Fri, 15 May 2020 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

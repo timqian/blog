@@ -1,17 +1,13 @@
-# static-125
+# My personal blog
 
-## Introduction
-
-English | [中文](https://cn.ylines.org/static-y.html)
-
-## Usage
+## Deploy
 
 ```bash
 # install dependencies
 npm i
 
 # generate blog
-node index.js --baseURL "https://ylines.org" --title "Y Lines" --fromPath "posts" --destPath "build" --themePath "themes/ylines.org"
+node index.js --baseURL "https://timqian.com/blog" --title "timqian" --fromPath "posts" --destPath "docs" --themePath "themes/timqian.com"
 ```
 
 ## Params
