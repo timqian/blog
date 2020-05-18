@@ -3,50 +3,68 @@ title: My one year experience as an indie hacker
 date: 2020-05-18
 ---
 
->Drafting
-<!-- 
-去年的今天, 我开始了“透明创业实验”, 给了自己 1 年的时间, 全职独立开发. 设定了一个每月收入 $1000 的小目标. 一年很快过去, 不是特别意外, 我失败了😢 这篇博客主要谈谈感想, 关于具体的收入和产品情况在这两篇博客里聊过, 没有太大变化, 不再赘述.
+About one years ago, I quit my job and started my career as an indie hacker. My goal was to reach $1000 monthly revenue in one year. The year soon passed, unfortunately but not surprisingly, I failed. But as a summarize to this journey, I would like to share some data and thoughts here with you.
 
-## 你是否应该成为一个独立开发者?
+### Projects I made
 
-### 独立开发越来越容易了
+| Product | Status | Github Stars | registered user | Downloads |
+| --- | --- | --- | --- | --- |
+| [Feeds.Pub](https://feeds.pub) | 🌱| haven't open sourced yet | 1534 | |
+| [Resumd](https://github.com/timqian/resumd) | 🌱| 331 | | |
+| [Chinese Independent Blogs](https://github.com/timqian/chinese-independent-blogs) | 🌱| 4.6k | / | |
+| [Repo Analytics](https://repo-analytics.github.io/) | 🌱| 104 | 250 | |
+| [chart.xkcd](https://github.com/timqian/chart.xkcd) | 🌱| 6.2k | / | 100k+ |
+| [wewe](https://github.com/t9tio/wewe) | 🌱 | 317 | 133 | |
+| Help wanted | 💀 |  |  |  |
+| [Open Source Jobs](https://github.com/t9tio/open-source-jobs) | 🌱 | 1.1k | 153 |  |
+| [Tomato Pie](https://github.com/t9tio/tomato-pie) | 🌱 | 198 | 1k |  |
+| [cloudquery](https://github.com/t9tio/cloudquery) | 🌱 | 2.1k | / |  |
+| cloudfetch | 💀 | | | |
+| [Star History](https://github.com/timqian/star-history) | 🌱| 1.8k | / | |
 
-nodejs, react, react-native, electron, flutter, bootstrap, tailwindcss… 新的开发工具层出不穷, 经常听到有工程师开玩笑抱怨说学不动了. 但应该认识到, 层出不穷的开发者工具, 正在不断得让软件开发变得越来越容易. 最近看到好多 00 后, 高中生甚至是小学生, 都给自己做了个人网站和一些 side project. 软件开发难度的降低可见一斑.
+### Monthly revenue
 
-### 独立开发越来越难了
+$14 per month from [patreon](https://www.patreon.com/timqian)
 
-正是因为各种基础设施变得越来越完善, 做 APP 变得越来越容易, 市面上的 APP 数量暴增, 然而这个地球上的人口是有限的, 注意力也是有限的. 注定越来越多的 APP 将沦为自娱自乐的产出.
+$57 per month from [afdian](https://afdian.net/@timqian) (Thanks to [immux.com](https://www.immux.com/))
 
-所以, 如果你在 运气/编程/产品/创意/耐心/设计 的任一方面不够强壮, 希望靠独立开发维持生活, 可能不是一件很容易的事情.
+About $18 per month from [star-history](https://chrome.google.com/webstore/detail/star-history/iijibbcdddbhokfepbblglfgdglnccfn)
 
-这是最好的时代: 人人都可以低成本的创造
-这是最坏的时代: 人人都可以低成本的创造
+### What I did wrong
 
-### 那么你是否应该成为一个独立开发者?
+1. Not focusing enough: In 12 month, I built 11 different projects. I should focus on one project earlier.
 
-如果你有些闲钱, 足够维持一两年并且很想尝试一下. 这会是一场有趣的旅程. 独立开发的经历将在各方面锻炼你的能力, 相信回来找工作也不会特别难.
+2. I am targeting global market, but wrote my [blog](https://blog.t9t.io) only in Chinese.
 
-如果你只是厌倦了上班, “不想为他人工作”, 你很可能会失望. 因为当你开始独立开发, 你会发现独立开发与上班没有想象中那么大的差别，大部分时间，你会在做“必须要做的事情”。如果你是因为懒于工作而想自己干，多半是搞不成的. 你最应该做的事情是寻找一个靠谱的团队, 加入进去, 学习, 进步, 一起打造一个成功的产品.
+### What I did right
 
-## 我这一年来做错了什么
+1. I built a lot of different things: building is the best way to learn. Although I failed to build a product with enough MRR. The process makes me a better builder. And it give me some sense about products. Whether a product can attract people's eye when it launch? Whether a product can "only" attract people when it launch, but people will not actually use it? Whether a product may not gain a successful launch but the search engine, network effect might make it worthwhile to try.
 
-1. 我做了太多东西: 十二个月时间里, 我尝试了 11 个不同的项目. 有朋友用疑似夸奖的语气评论道 "高产似XX"... 但大家都清楚, 数量没有任何意义, 质量才是关键. 新点子会不断冒出来, 一个能力正常的开发者, 几天内糊一个 Demo 出来不是难事, 但坚持做好 1 个产品是很难的, 因为需要和人类喜新厌旧的本性对抗. 坚持坐在冷板凳上改进一个产品不一定是一件有趣的事情, 但是产品成功的不二法门.
+2. Recording things down([in Chinese](https://blog.t9t.io)): so I can reuse what works and prevent mistakes happen twice. My blog brought me some readers and initial users. I made some amazing friends thanks to the blogs. One product might not live longer than some decades, but the experiences, and thoughts might have the opportunity to influence people for a longer time.
 
-2. 开了一个中文博客, 但做的却是国际化的项目. 没有开英文博客, 少了很多本来可以获取到的英语世界的读者和反馈. 却得到了许多中文用户的抱怨 “为什么没有中文...”
+## What's next
 
-## 我做对了什么
+- I will focus mainly on [Feeds.Pub](https://feeds.pub) to make it as good as I can. But continue building side projects (with less focus)
+- I started this English blog and will continue blogging
+- I am starting to look for freelance works and opportunities in startups, if you are looking for someone to build your APP, you are very welcomed to [contact me](mailto:timqian@t9t.io)
 
-1. 我做了太多东西: 十二个月的时间里, 我尝试了 11 个不同的项目. 除了少数几个夭折了, 大部分还活着, 为或多或少的用户提供一些价值. 尝试推出很多东西之后, 也让我对产品有了一些感觉, 什么东西推出去可能会吸引眼球, 什么东西可能只是吸引一下眼球, 但长期价值不大. 什么东西一开始发布可能不会有太大的波澜, 但搜索引擎, 网络效应和时间可能让他长期来讲是一件值得做的事情等等.
+## Should you consider being an indie hacker?
 
-2. 开了一个博客, 把自己对产品, 技术, 推广之类的想法记录下来, 之后可以复用, 重复做对的事, 避免重复踩坑. 博客为我带来了一些的读者, 认识了许多有趣的朋友. 你的产品可能最多活几十年, 但你的经历, 思考却可能在更长的时间里影响别人.
+### Building APPs is becoming more and more easy
 
-## 接下来的安排
+nodejs, react, react-native, electron, flutter, bootstrap, tailwindcss… tools to help building APPs occurs rapidly. Although some developer is complaining about too many things to learn and too many choices to choose. But it is important to note that these new tools are built to facilitate software engineering. You may already noticed, there are lots of young people, even in primary school, got their own personal webpage and side projects. This is hard to imagine 10 years ago.
 
-一方面, 我将修正自己的两大错误, 继续前进, 另一方面, 我也意识到了个人力量的局限, 开始寻找合作
+### Building successful APPs is becoming more and more hard
 
-- 加入有潜力的团队, 一起打造产品, 合适的团队就像是找对象, 是很难的一件事情.
-  1. 团队成员
-  2. 项目前景
-  3. 工资和股权
-- 如果你认为某个产品有商业化的可能, 或者感兴趣维护下去, 可以联系我, 共享收益的 50%
-- 接外包 -->
+As building APP becoming more and more easy. Hundreds of APPs is shipped every day. But the population on this globe is limited, so as their attention. It is predestined that most APPs get no tractions.
+
+So, if you are not good enough on any aspect of luck/programming/creativity/patience/design, It might be hard to earn a living as an indie hacker.
+
+It is the best of times: anyone can create thing with low cost
+It is the worst of times: anyone can create things with low cost
+
+### So, should you consider being an indie hacker?
+
+If you got enough saving to sustain yourself for several years and are eager to try. It will be a fun journey. Being a indie hacker is a good practice in many aspects, it won't be very hard for you to find a new job if you failed.
+
+If you are just bored of "working for others", you might be disappointed. As when you start building APPs yourself, you will soon find there aren't much difference between indie hack or work for others. In most times, you will be doing the things "you must do". A better choice is to join a good team, learn to build a successful product.
