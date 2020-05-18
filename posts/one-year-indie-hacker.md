@@ -38,9 +38,9 @@ About $18 per month from [star-history](https://chrome.google.com/webstore/detai
 
 ### What I did right
 
-1. I built a lot of different things: building is the best way to learn. Although I failed to build a product with enough MRR. The process makes me a better builder. And it give me some sense about products. Whether a product can attract people's eye when it launch? Whether a product can "only" attract people when it launch, but people will not actually use it? Whether a product may not gain a successful launch but the search engine, network effect might make it worthwhile to try.
+1. I built a lot of different things: building is the best way to learn. Although I failed to build a product with enough MRR. The process made me a better builder. And it gave me some sense about products. Whether a product can attract people's eye when it launch? Whether a product can "only" attract people when it launch, but people will not actually use it? Whether a product may not gain a successful launch but the search engine, network effect might make it worthwhile to try.
 
-2. Recording things down([in Chinese](https://blog.t9t.io)): so I can reuse what works and prevent mistakes happen twice. My blog brought me some readers and initial users. I made some amazing friends thanks to the blogs. One product might not live longer than some decades, but the experiences, and thoughts might have the opportunity to influence people for a longer time.
+2. Recording things down([in Chinese](https://blog.t9t.io)): so I can reuse what works and prevent mistakes happening twice. My blog brought me some readers and initial users. I made some amazing friends thanks to the blogs. One product might not live longer than some decades, but the experiences, and thoughts might have the opportunity to influence people for a longer time.
 
 ## What's next
 
@@ -52,7 +52,7 @@ About $18 per month from [star-history](https://chrome.google.com/webstore/detai
 
 ### Building APPs is becoming more and more easy
 
-nodejs, react, react-native, electron, flutter, bootstrap, tailwindcss… tools to help building APPs occurs rapidly. Although some developer is complaining about too many things to learn and too many choices to choose. But it is important to note that these new tools are built to facilitate software engineering. You may already noticed, there are lots of young people, even in primary school, got their own personal webpage and side projects. This is hard to imagine 10 years ago.
+nodejs, react, react-native, electron, flutter, bootstrap, tailwindcss… tools to help building APPs occurs rapidly. Although some developer is complaining about too many things to learn and too many choices to choose. But it is important to note that these new tools are built to facilitate software engineering. You may already noticed, there are lots of young people, even in primary school, got their own personal website and side projects. This is hard to imagine 10 years ago.
 
 ### Building successful APPs is becoming more and more hard
 
