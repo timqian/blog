@@ -50,6 +50,7 @@ const allPosts = blogPaths.map(mdFileName => {
   const resHTML = postWrapper
     .replace(/{{title}}/g, title)
     .replace(/{{blogTitle}}/g, blogTitle)
+    .replace(/{{filename}}/g, mdFileName.split('.')[0])
     .replace('{{createdDate}}', date)
     .replace('{{content}}', blogHTML)
     .replace('{{feedsPubLink}}', `https://feeds.pub/feed/${encodeURIComponent(baseURL)}%2Frss.xml`)
