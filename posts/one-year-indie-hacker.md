@@ -3,7 +3,7 @@ title: My one year experience as an indie hacker
 date: 2020-05-18
 ---
 
-About one years ago, I quit my job and started my career as an indie hacker. My goal was to reach $1000 monthly revenue in one year. The year soon passed, unfortunately but not surprisingly, I failed. But as a summarize to this journey, I would like to share some data and thoughts here with you.
+About one year ago, I quit my job and started my career as an indie hacker. My goal was to reach $1000 monthly revenue in one year. The year soon passed, unfortunately, but not surprisingly, I failed. But as a summary of this journey, I would like to share some data and thoughts here with you.
 
 ### Projects I made
 
@@ -38,7 +38,7 @@ About $18 per month from [star-history](https://chrome.google.com/webstore/detai
 
 ### What I did right
 
-1. I built a lot of different things: building is the best way to learn. Although I failed to build a product with enough MRR. The process made me a better builder. And it gave me some sense about products. Whether a product can attract people's eye when it launch? Whether a product can "only" attract people when it launch, but people will not actually use it? Whether a product may not gain a successful launch but the search engine, network effect might make it worthwhile to try.
+1. I built a lot of different things: building is the best way to learn. Although I failed to build a product with enough MRR. The process made me a better builder. And it gave me some sense about products. Whether a product can attract people's eye when it launches? Whether a product can "only" attract people when it launches, but people will not actually use it? Whether a product may not gain a successful launch but the search engine, network effect might make it worthwhile to try.
 
 2. Recording things down([in Chinese](https://blog.t9t.io)): so I can reuse what works and prevent mistakes happening twice. My blog brought me some readers and initial users. I made some amazing friends thanks to the blogs. One product might not live longer than some decades, but the experiences, and thoughts might have the opportunity to influence people for a longer time.
 
@@ -52,11 +52,11 @@ About $18 per month from [star-history](https://chrome.google.com/webstore/detai
 
 ### Building APPs is becoming more and more easy
 
-nodejs, react, react-native, electron, flutter, bootstrap, tailwindcss… tools to help building APPs occurs rapidly. Although some developer is complaining about too many things to learn and too many choices to choose. But it is important to note that these new tools are built to facilitate software engineering. You may already noticed, there are lots of young people, even in primary school, got their own personal website and side projects. This is hard to imagine 10 years ago.
+nodejs, react, react-native, electron, flutter, bootstrap, tailwindcss… tools to help building APPs occur rapidly. Although some developer is complaining about too many things to learn and too many choices to choose. But it is important to note that these new tools are built to facilitate software engineering. You may have already noticed, there are lots of young people, even in primary school, got their own personal website and side projects. This is hard to imagine 10 years ago.
 
 ### Building successful APPs is becoming more and more hard
 
-As building APP becoming more and more easy. Hundreds of APPs is shipped every day. But the population on this globe is limited, so as their attention. It is predestined that most APPs get no tractions.
+Building APP becoming easier and easier. Hundreds of APPs are shipped every day. But the population on this globe is limited, so as their attention. It is predestined that most APPs get no tractions.
 
 So, if you are not good enough on any aspect of luck/programming/creativity/patience/design, It might be hard to earn a living as an indie hacker.
 
@@ -65,6 +65,6 @@ It is the worst of times: anyone can create things with low cost
 
 ### So, should you consider being an indie hacker?
 
-If you got enough saving to sustain yourself for several years and are eager to try. It will be a fun journey. Being a indie hacker is a good practice in many aspects, it won't be very hard for you to find a new job if you failed.
+If you got enough saving to sustain yourself for several years and are eager to try. It will be a fun journey. Being an indie hacker is a good practice in many aspects, it won't be very hard for you to find a new job if you failed.
 
-If you are just bored of "working for others", you might be disappointed. As when you start building APPs yourself, you will soon find there aren't much difference between indie hack or work for others. In most times, you will be doing the things "you must do". A better choice is to join a good team, learn to build a successful product.
+If you are just bored of "working for others", you might be disappointed. As when you start building APPs yourself, you will soon find there isn't much difference between indie hack or work for others. Most times, you will be doing the things "you must do". A better choice is to join a good team, learn to build a successful product.
