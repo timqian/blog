@@ -4,11 +4,17 @@
         <title>timqian</title>
         <link>https://timqian.com/blog</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 May 2020 10:47:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Nov 2023 08:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[My one year experience as an indie hacker]]></title>
+            <title><![CDATA[How I helped GPT-4 in resolving 100 problems on leetcode in 1 hour]]></title>
+            <link>https://timqian.com/blog/leetcode-gpt4.html</link>
+            <guid>https://timqian.com/blog/leetcode-gpt4.html</guid>
+            <pubDate>Sun, 19 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My one-year experience as an indie hacker]]></title>
             <link>https://timqian.com/blog/one-year-indie-hacker.html</link>
             <guid>https://timqian.com/blog/one-year-indie-hacker.html</guid>
             <pubDate>Mon, 18 May 2020 00:00:00 GMT</pubDate>
