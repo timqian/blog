@@ -5,6 +5,7 @@ date: 2023-11-19
 
 > Talk is cheap, show me the code: **[github.com/timqian/letcode.ai](https://github.com/timqian/letcode.ai)** and the demo video:
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How I helped GPT-4 auto resolving 100 problems on <a href="https://twitter.com/LeetCode?ref_src=twsrc%5Etfw">@LeetCode</a> in 1 hour<br><br>Blog: <a href="https://t.co/YWnAtCsnd8">https://t.co/YWnAtCsnd8</a> <a href="https://t.co/DVyw6QJ29L">pic.twitter.com/DVyw6QJ29L</a></p>&mdash; timqian.eth (@Tim_Qian) <a href="https://twitter.com/Tim_Qian/status/1726174031999914485?ref_src=twsrc%5Etfw">November 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Background
 
