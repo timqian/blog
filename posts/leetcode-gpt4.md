@@ -1,5 +1,5 @@
 ---
-title: How I helped GPT-4 in resolving 100 problems on leetcode in 1 hour
+title: How I helped GPT-4 automatically solve 100 problems on LeetCode in just 1 hour
 date: 2023-11-19
 ---
 
