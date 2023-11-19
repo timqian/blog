@@ -1,6 +1,6 @@
 ---
-title: How I Helped GPT-4 Autonomously Conquer the Top 100 Coding Challenges on LeetCode!
-date: 2023-11-20
+title: How I helped GPT-4 in resolving 100 problems on leetcode in 1 hour
+date: 2023-11-19
 ---
 
 > Talk is cheap, show me the code: **[github.com/timqian/letcode.ai](https://github.com/timqian/letcode.ai)** and the demo video:
